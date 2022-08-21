@@ -1,0 +1,3 @@
+C:/Users/PRO/CLionProjects/swea/basic/no.1/cmake-build-debug/CMakeFiles/no_1.dir
+C:/Users/PRO/CLionProjects/swea/basic/no.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PRO/CLionProjects/swea/basic/no.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
